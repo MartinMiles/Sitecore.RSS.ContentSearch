@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.RSS", "Sitecore.Feature.RSS\Sitecore.Feature.RSS.csproj", "{10000E54-4BBD-4639-A02A-3DF7C62ABC5A}"
+EndProject
+Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "Sitecore.Feature.RSS.Serialization.Master", "Sitecore.Feature.RSS.Serialization.Master\Sitecore.Feature.RSS.Serialization.Master.scproj", "{A5113433-F505-410D-9399-05A70F9C201B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		AzureSearch|Any CPU = AzureSearch|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Prod|Any CPU = Prod|Any CPU
+		Release|Any CPU = Release|Any CPU
+		UAT|Any CPU = UAT|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10000E54-4BBD-4639-A02A-3DF7C62ABC5A}.AzureSearch|Any CPU.ActiveCfg = Release|Any CPU
+		{10000E54-4BBD-4639-A02A-3DF7C62ABC5A}.AzureSearch|Any CPU.Build.0 = Release|Any CPU
+		{10000E54-4BBD-4639-A02A-3DF7C62ABC5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10000E54-4BBD-4639-A02A-3DF7C62ABC5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10000E54-4BBD-4639-A02A-3DF7C62ABC5A}.Prod|Any CPU.ActiveCfg = Release|Any CPU
+		{10000E54-4BBD-4639-A02A-3DF7C62ABC5A}.Prod|Any CPU.Build.0 = Release|Any CPU
+		{10000E54-4BBD-4639-A02A-3DF7C62ABC5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10000E54-4BBD-4639-A02A-3DF7C62ABC5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10000E54-4BBD-4639-A02A-3DF7C62ABC5A}.UAT|Any CPU.ActiveCfg = Release|Any CPU
+		{10000E54-4BBD-4639-A02A-3DF7C62ABC5A}.UAT|Any CPU.Build.0 = Release|Any CPU
+		{A5113433-F505-410D-9399-05A70F9C201B}.AzureSearch|Any CPU.ActiveCfg = AzureSearch|Any CPU
+		{A5113433-F505-410D-9399-05A70F9C201B}.AzureSearch|Any CPU.Build.0 = AzureSearch|Any CPU
+		{A5113433-F505-410D-9399-05A70F9C201B}.AzureSearch|Any CPU.Deploy.0 = AzureSearch|Any CPU
+		{A5113433-F505-410D-9399-05A70F9C201B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5113433-F505-410D-9399-05A70F9C201B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5113433-F505-410D-9399-05A70F9C201B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A5113433-F505-410D-9399-05A70F9C201B}.Prod|Any CPU.ActiveCfg = Prod|Any CPU
+		{A5113433-F505-410D-9399-05A70F9C201B}.Prod|Any CPU.Build.0 = Prod|Any CPU
+		{A5113433-F505-410D-9399-05A70F9C201B}.Prod|Any CPU.Deploy.0 = Prod|Any CPU
+		{A5113433-F505-410D-9399-05A70F9C201B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5113433-F505-410D-9399-05A70F9C201B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5113433-F505-410D-9399-05A70F9C201B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A5113433-F505-410D-9399-05A70F9C201B}.UAT|Any CPU.ActiveCfg = UAT|Any CPU
+		{A5113433-F505-410D-9399-05A70F9C201B}.UAT|Any CPU.Build.0 = UAT|Any CPU
+		{A5113433-F505-410D-9399-05A70F9C201B}.UAT|Any CPU.Deploy.0 = UAT|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1792A82-1BE3-4734-9AF9-488257DEF521}
+	EndGlobalSection
+EndGlobal
