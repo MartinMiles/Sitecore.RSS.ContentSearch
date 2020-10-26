@@ -1,6 +1,6 @@
 # Sitecore RSS ContentSearch
 
-The adequate extension for an outdated Sitecore built-in legacy RSS feed.
+The adequate extension for an outdated Sitecore built-in legacy RSS feed. It adds an ability to output feed from the indexed items rather than accessing the actual database.
 ## Description
 New `Content search` section is added to built-in `RSS Feed` template upon installation enabling your feed to benefit from using index:
 
