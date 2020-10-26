@@ -1,7 +1,6 @@
 # Sitecore RSS ContentSearch
 
 The adequate extension for an outdated Sitecore built-in legacy RSS feed.
-
 ## Description
 New `Content search` section is added to built-in `RSS Feed` template upon installation enabling your feed to benefit from using index:
 
@@ -31,4 +30,4 @@ This extends built-in RSS feed with a Content Search section. By using this sect
 
 
 ## Credits
-Douglas Couto (his [GitHub](https://github.com/dcouto "GitHub") page)
+Douglas Couto (his [GitHub](https://github.com/dcouto "GitHub") page).
