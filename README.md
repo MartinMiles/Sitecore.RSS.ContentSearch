@@ -10,7 +10,7 @@ New `Content search` section is added to built-in `RSS Feed` template upon insta
 ## Instructions
 
 Clone the code and rename as a Helix feature module, or use on its own. The code contains class library for a feature module alond with TDS project with the serialization.
-You may alternatively prefer using traditional sitecore package from SitecorePackage folder instead of using TDS.
+You may alternatively prefer using traditional sitecore package from SitecorePackage folder instead of using TDS - the one is available under `SitecorePackage` folder.
 
 ## Serilization / TDS contains the following nodes with children:
 - `/sitecore/templates/Feature/RSS` - RSS folder and standard values with insert options for RSS Feed.
